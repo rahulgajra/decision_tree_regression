@@ -1,0 +1,1 @@
+we can compare all model results and can see that decision_tree_regression is not efficient for those dataset which are contained low features.this is very usefull for those dataset which are contained servel features
